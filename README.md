@@ -6,3 +6,4 @@
 - У меня потрясающая семья
 - И я очень люблю картошку-фри с мороженным!
 
+![writing girl](https://github.com/user-attachments/assets/16988c67-1a1c-41b1-941c-3815b001d1a4)
